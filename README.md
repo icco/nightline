@@ -1,4 +1,3 @@
-nightline
-=========
+# nightline
 
 A ruby web framework.
